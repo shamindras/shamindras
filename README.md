@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamindra Shrotriya</h1>
 <h3 align="center">A PhD student in Statistics and Data Science at Carnegie Mellon University (CMU).</h3>
 
-- 🔭 In my research I'm currently working on **location-scale estimation, and shape constrained estimation problems, and spatiotemporal modeling (wildfire prediction)**.
+- 🔭 In my research I'm currently working on location-scale estimation, and shape constrained estimation problems, and spatiotemporal modeling (wildfire prediction). I really enjoy learning statistical concepts deeply by listening to experts, or trying (often in vain) to explain them clearly.
 
 - 📝 I regulary blog (mostly statistics related) on my [website](https://www.shamindras.com/)
 
