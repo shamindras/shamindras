@@ -9,10 +9,6 @@
 
 - 😄 Pronouns: He/Him/His
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shamindraas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shamindraas" height="30" width="40" /></a>
-<a href="/https://www.shamindras.com/index.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.shamindras.com/index.xml" height="30" width="40" /></a>
-</p>
+Please browse around, and feel free to get in touch for any collaborations.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamindras&label=Profile%20views&color=0e75b6&style=flat" alt="shamindras" /> </p>
