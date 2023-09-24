@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shamindra Shrotriya</h1>
-<PRE align="center">Principal Data Scientist at Walmart (Retail Intelligence)</PRE>
 
-- I graduated with a PhD in Statistics & Data Science from Carnegie Mellon University (CMU), advised by Prof. Matey Neykov.
+- 🏛️ Principal Data Scientist at Walmart (Retail Intelligence)
+
+- 🏫 I graduated with a PhD in Statistics & Data Science from Carnegie Mellon University (CMU), advised by Prof. Matey Neykov.
 
 - 🔭 In my research enjoy working on location-scale estimation, shape constrained estimation, and spatiotemporal modeling (wildfire prediction). I really enjoy learning statistical concepts deeply by listening to experts, or trying to explain them clearly.
 
