@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shamindra Shrotriya</h1>
-<PRE align="center">A PhD graduate in Statistics and Data Science from Carnegie Mellon University (CMU)</PRE>
+<PRE align="center">Principal Data Scientist at Walmart (Retail Intelligence)</PRE>
 
-- 🔭 In my research I'm currently working on location-scale estimation, shape constrained estimation, and spatiotemporal modeling (wildfire prediction). I really enjoy learning statistical concepts deeply by listening to experts, or trying to explain them clearly.
+- I graduated with a PhD in Statistics & Data Science from Carnegie Mellon University (CMU), advised by Prof. Matey Neykov.
+
+- 🔭 In my research enjoy working on location-scale estimation, shape constrained estimation, and spatiotemporal modeling (wildfire prediction). I really enjoy learning statistical concepts deeply by listening to experts, or trying to explain them clearly.
 
 - 📝 I regulary blog (mostly statistics related) on my [website](https://www.shamindras.com/)
 
